@@ -1,0 +1,15 @@
+D:\github\tnt\obj\Debug\net7.0\tnt.csproj.AssemblyReference.cache
+D:\github\tnt\obj\Debug\net7.0\tnt.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\tnt\obj\Debug\net7.0\tnt.AssemblyInfoInputs.cache
+D:\github\tnt\obj\Debug\net7.0\tnt.AssemblyInfo.cs
+D:\github\tnt\obj\Debug\net7.0\tnt.csproj.CoreCompileInputs.cache
+D:\github\tnt\bin\Debug\net7.0\tnt.exe
+D:\github\tnt\bin\Debug\net7.0\tnt.deps.json
+D:\github\tnt\bin\Debug\net7.0\tnt.runtimeconfig.json
+D:\github\tnt\bin\Debug\net7.0\tnt.dll
+D:\github\tnt\bin\Debug\net7.0\tnt.pdb
+D:\github\tnt\obj\Debug\net7.0\tnt.dll
+D:\github\tnt\obj\Debug\net7.0\refint\tnt.dll
+D:\github\tnt\obj\Debug\net7.0\tnt.pdb
+D:\github\tnt\obj\Debug\net7.0\tnt.genruntimeconfig.cache
+D:\github\tnt\obj\Debug\net7.0\ref\tnt.dll
