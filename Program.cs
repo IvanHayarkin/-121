@@ -24,9 +24,20 @@ int a = int.Parse(Console.ReadLine()!);
 for (int i = 2; i <= a; i += 2)
 Console.WriteLine($"Ответ: {i}");
 */
-
+/*
 Console.WriteLine("Введите число: ");
 
 if (Convert.ToInt32(Console.ReadLine()) % 2==0)
     Console.WriteLine("Tru");
 else Console.WriteLine("false");
+*/
+
+Console.WriteLine("Введите число: ");
+
+int a = int.Parse(Console.ReadLine()!);
+int b = int.Parse(Console.ReadLine()!);
+int c = int.Parse(Console.ReadLine()!);
+int max = a;
+if (b > max) max = b;
+if (c > max) max = c;
+Console.WriteLine($"Ответ: {max} ");
